@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "66a307bce873e1d436718381"
+  },
+  "user_id": {
+    "$oid": "66a3027ee873e1d43671837c"
+  },
+  "title": "I love this",
+  "description": "Truer words were never said",
+  "image": "https://cdn.britannica.com/22/215522-131-FB1512ED/green-grass-close-up.jpg"
+}]
